@@ -67,4 +67,4 @@ To develop a predictive model that can estimate the future **Tingkat Garis Kemis
 ## 💬 Notes
 
 This project is part of an academic and developmental initiative to make data-driven insights more accessible for Indonesian policymaking and community development.
-
+Post: https://www.instagram.com/p/DME3keGv44a/?img_index=1
