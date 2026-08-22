@@ -46,12 +46,12 @@ To develop a predictive model that can estimate the future **Tingkat Garis Kemis
 
 | Stage | Description | Status |
 |-------|-------------|--------|
-| Topic & Domain Research | Understand the poverty line context | 🔲 Not started |
-| Main Data | Collect and preprocess main BPS dataset | 🔲 Not started |
-| Additional Data | Gather supporting indicators | 🔲 Not started |
-| Modeling & Prediction | Apply forecasting models | 🔲 Not started |
-| Visualization | Create graphs and dashboards | 🔲 Not started |
-| Media | Prepare presentation and documentation | 🔲 Not started |
+| Topic & Domain Research | Understand the poverty line context | ✅ done |
+| Main Data | Collect and preprocess main BPS dataset | ✅ done |
+| Additional Data | Gather supporting indicators | ✅ done |
+| Modeling & Prediction | Apply forecasting models | ✅ done |
+| Visualization | Create graphs and dashboards | ✅ done |
+| Media | Prepare presentation and documentation | ✅ done |
 
 ---
 
@@ -60,11 +60,12 @@ To develop a predictive model that can estimate the future **Tingkat Garis Kemis
 - Farhan Adiwidya Pradana
 - Yusuf Imantaka Bastari
 - Muhammad Javier
-- etc..
+- Deira Aisya Refani
+- Mahardika
 
 ---
 
 ## 💬 Notes
 
-This project is part of an academic and developmental initiative to make data-driven insights more accessible for Indonesian policymaking and community development.
+This project is part of an academic and developmental initiative at Universitas Gadjah Mada to make data-driven insights more accessible for Indonesian policymaking and community development.
 Post: https://www.instagram.com/p/DME3keGv44a/?img_index=1
