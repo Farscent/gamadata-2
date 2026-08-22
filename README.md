@@ -69,5 +69,5 @@ To develop a predictive model that can estimate the future **Tingkat Garis Kemis
 
 ## 💬 Notes
 
-This project is part of an academic and developmental initiative at Universitas Gadjah Mada to make data-driven insights more accessible for Indonesian policymaking and community development.
+This project is part of the Gamadata-2 initiative under Data Research Division of Universitas Gadjah Mada's Student Union, aimed at using data science for social awareness and advocacy, particularly in supporting democratic oversight and civic participation in policymaking.
 Post: https://www.instagram.com/p/DME3keGv44a/?img_index=1
