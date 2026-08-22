@@ -61,7 +61,9 @@ To develop a predictive model that can estimate the future **Tingkat Garis Kemis
 - Yusuf Imantaka Bastari
 - Muhammad Javier
 - Deira Aisya Refani
-- Mahardika
+- Mahardika Ramadhana
+- Danar Fathurahman
+- Widad Muhammad Rafi
 
 ---
 
